@@ -1,4 +1,25 @@
+## Meo and Rudy Notes
+
+User Story React API Fetch
+
+MVP 
+
+As a User, we can make queries to the API to view articles
+
+As a User, we can click on links to go directly to the article
+
+
+STRETCH
+
+As a User, we can sort articles by most recent 
+
+As a User, click on title it opens up abstract underneath, 
+
+As a User, within that abstract I can  click on the link to original article 
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
